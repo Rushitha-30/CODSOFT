@@ -1,16 +1,16 @@
-# Credit Card Fraud Detection
+# CODSOFT Machine Learning Internship
 
-## Objective
-Detect fraudulent credit card transactions using Machine Learning.
+## Task 1: Movie Genre Classification
+- Objective
+- Algorithm Used
+- Results
 
-## Algorithm Used
-Random Forest Classifier
+## Task 2: Credit Card Fraud Detection
+- Objective
+- Algorithm Used
+- Results
 
-## Dataset
-fraudTrain.csv
-
-## Accuracy
-99.61%
-
-## Tools Used
-Python, Google Colab, Pandas, NumPy, Scikit-Learn
+## Task 3: Spam SMS Detection
+- Objective
+- Algorithm Used
+- Results
